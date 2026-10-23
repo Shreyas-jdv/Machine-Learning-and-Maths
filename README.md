@@ -1,6 +1,6 @@
 # Machine Learning and Maths
 
-These study notes and materials cover linear algebra, information theory, machine learning fundamentals, and logistic regression[cite: 2].
+These study notes and materials cover linear algebra, information theory, machine learning fundamentals, and logistic regression.
 
 ## 🌐 Live Website
 You can view the published notes live on GitHub Pages:
